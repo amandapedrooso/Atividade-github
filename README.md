@@ -1,5 +1,6 @@
-# Atividade-github
-Gerência de configuração e controle de versão- Prof Eron
+# 🧠 Atividade GitHub
+Repositório criado para a atividade prática de versionamento.
 
-Repositório criado para a atividade de versionamento no GitHub.  
-Aqui serão feitos testes de edição, commit e merge de branches.
+## 🗂️ Objetivo
+- Aprender a usar **Git e GitHub** de forma prática  
+- Entender **branches**, **commits** e **pull requests**
